@@ -49,3 +49,15 @@ Las listas son útiles a la hora de listas elementos o mostrar una gran variedad
 1. Item 1
 2. Item 2
 3. Item 3
+
+**Listas dentro de otras listas**: sirve para poder listar listas dentro de otras.
+
+1. Item 1
+   1. Sub Item 1
+   2. Sub Item 2
+2. Item 2
+   1. Sub Item 1
+      1. Sub sub Item 1
+
+
+Esto se puede utilizar con el resto de listas vistas anteriormete.

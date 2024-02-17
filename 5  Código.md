@@ -23,7 +23,7 @@ Este es un ejemplo de `código` en línea.
 def function(a,b):
     return a + b
 
-print(function(10,20))
+print(function(10,20))GHBBGHNBGFVHBB
 ```
 **Resultado:**
 
